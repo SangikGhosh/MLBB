@@ -8,7 +8,7 @@ const VideoPlayer = () => {
         src={OpenVideo}
         autoPlay 
         playsInline 
-
+        muted
       />
     </div>
   );
